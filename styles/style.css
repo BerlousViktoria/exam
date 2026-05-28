@@ -32,9 +32,16 @@ main{
     margin-top: 40px;    
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 40px;
 }
 
+
+.gallery-row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+}
 
 
 .gallery-item{ 
